@@ -36,6 +36,7 @@
     "heroku-postbuild": "gatsby build",
     "dev": "gatsby develop -o",
     "develop": "gatsby develop",
+    "start": "gatsby serve --port ${PORT}",
     "build": "gatsby build",
     "lint": "eslint . --ext .js,.jsx --ignore-path .gitignore",
     "lint:fix": "eslint . --ext .js,.jsx --fix --ignore-path .gitignore",
