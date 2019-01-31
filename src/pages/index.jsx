@@ -75,28 +75,28 @@ const Index = () => (
             link="https://farmsanctuaries.herokuapp.com/"
             bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
           >
-            This project is my entry to Adobe's #ChallengeYourPerspective contest.
+            An application for finding Animal Sanctuaries. React MySQL Heroku
           </ProjectCard>
           <ProjectCard
             title="Philly Neighbors"
             link="https://stormy-temple-91988.herokuapp.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            I entered the DOCMA 2017 award with this Harry Potter inspired image.
+            A community bulletin board. Sequelize MERN Handlebars
           </ProjectCard>
           <ProjectCard
             title="Lost Memory"
             link="https://moskowitza.github.io/clickyreact/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
+            A memory game using React.
           </ProjectCard>
           <ProjectCard
             title="Halloween Hangman"
             link="https://moskowitza.github.io/Hangman-Game/"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            A fantasy image manipulation relocating the habitat of wild animals.
+            Hangman game using JavaScript.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -108,8 +108,8 @@ const Index = () => (
         </AboutHero>
         <AboutDesc>
           I have a background in Biomedical Engineering and Medical Innovation. I spent 15 years advocating for better
-          oversight of medical technology and patient safety concerns. I have experience in healthcare VC and
-          entrepreneurship. I'm available for hire for consulting, freelance web-development, and project management.
+          oversight of medical technology and patient safety. I have experience in healthcare VC and entrepreneurship.
+          I'm available for hire for consulting, freelance web-development, and project management.
         </AboutDesc>
       </About>
       <Contact offset={4}>
@@ -123,8 +123,7 @@ const Index = () => (
         </Inner>
         <Footer>
           &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LekoArts</a>.
+          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>.
         </Footer>
       </Contact>
     </Parallax>
